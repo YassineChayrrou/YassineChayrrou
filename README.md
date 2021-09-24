@@ -8,6 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YassineChayrrou&show_icons=true&theme=radical"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineChayrrou&layout=compact"/>
 <!-- </div> -->
+<br />
 
 ### What I am currently doing:
 
@@ -17,15 +18,19 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 🔓 My current goals are to find a software engineering job, learn more and get better at development.
 - ⚡ Fun fact: I enjoy long walks and appreciate beautiful sceneries.
+<br />
 
 ### Connect with me at:
+
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" width="30px" style="margin: 30px auto"/>](https://twitter.com/yassinechayrrou?lang=en)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" width="30px"/>](https://tn.linkedin.com/in/yassine-chayrrou-48098a193)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" width="30px"/>](https://yassinechayrrou.medium.com/)
+<br />
+<br />
 
 
-### Technologies I am currently using:
+### Technologies:
 
 #### Frontend:
 
@@ -38,6 +43,7 @@
   <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img  alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>  
 </div>
+<br />
 
 ##### Backend:
 
@@ -49,9 +55,13 @@
   <img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img  alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
 </div>
+<br />
 
 ##### Devops:
+
 <div>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+<img alt="Githbu" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=for-the-badge"/>
 <img alt="Nginx" src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge"/>
 <img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white&style=for-the-badge"/>
 <!-- <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/> -->
@@ -60,6 +70,15 @@
 <!-- <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge"/> -->
 <!-- <img alt="Travis CI" src="https://img.shields.io/badge/TravisCi-3EAAAF?logo=travisci&logoColor=white&style=for-the-badge"/> -->
 </div>
+<br />
+
+#### Favorite Editors:
+
+<div>
+<img alt="vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=green&style=for-the-badge"/>
+<img alt="vscode" src="https://img.shields.io/badge/Vscode-007ACC?logo=visualstudiocode&logoColor=black&style=for-the-badge"/>
+</div>
+<br />
 
 ### To know more details:
 
