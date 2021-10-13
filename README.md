@@ -41,7 +41,7 @@
   <img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=black&style=for-the-badge"/>
   <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img  alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>  
+<!--   <img  alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>   -->
 </div>
 <br />
 
@@ -61,7 +61,7 @@
 
 <div>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-<img alt="Githbu" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=for-the-badge"/>
+<img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=for-the-badge"/>
 <img alt="Nginx" src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge"/>
 <img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white&style=for-the-badge"/>
 <!-- <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/> -->
